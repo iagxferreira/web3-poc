@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Solidity programming compiled related folders
+bin
+cache
+artifacts
+
+# Lockfiles
+*.lock
+
+# IDE archives
+.idea
